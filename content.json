@@ -1,0 +1,57 @@
+{
+  "Questions": [
+    {
+      "Title": "VMWare View Client",
+      "Answer": "<p>The VMWare View client allows you to log in to the desktop you see on the Polytech PC's from your own machine over the internet. There are two desktops available - the standard Polytech desktop and one set up for ICT students which has some programming software, including Visual Studio 2013, installed onto it. You have access to everything as normal, but most importantly your H: drive. You can copy and paste files between your own pc and drives at Polytech allowing easy sending of your work and submitting of assessments.</p><p>We don't support local mode so don't bother downloading the local mode client. You may be tempted to log in to View, log into the ICT Desktop, and then fire up Visual Studio and start coding. We do not recommend this. It will be very slow and a loss of connection *may* cause you to lose work. Always work in locally installed applications and copy your work over when done.</p><table><tr><td>Link</td><td><a href='https://view.op.ac.nz/'>view.op.ac.nz</a></td></tr><tr><td>Supported Platforms</td><td>Windows, Mac, iOS and Android</td></tr><tr><td>Connection Server</td><td>view.op.ac.nz</td></tr><tr><td>Username</td><td>Your Polytech username</td></tr><tr><td>Password</td><td>Your Polytech password</td></tr><tr><td>View Client Software</td><td><a href='https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon_view_clients/3_0'>Download from here</a></td></tr><tr><td>Connect via</td><td>Microsoft RDP</td></tr></table>"
+    },
+    {
+      "Title": "After Hours Access",
+      "Answer": "<p>You can get your student ID enabled for after hours access to some rooms in D block. If you have work to complete often you will be more productive at Polytech than at home so you should consider working here. Register your ID for access at the link below.</p><table><tr><td>Link</td><td><a href='http://afterhours.ict.op.ac.nz/'>afterhours.ict.op.ac.nz</a></td></tr><tr><td>Requirements</td><td>Must access the link from a Polytech PC</td></tr><tr><td>Username</td><td>Your Polytech username</td></tr><tr><td>Password</td><td>Your Polytech password</td></tr></table>"
+    },
+    {
+      "Title": "Free Software",
+      "Answer": "<p>As a student you get access to free software from Microsoft and VMWare. The MSDNAA and VMWare web stores give you access to product keys and downloads of the ISO files containing the software. If you don't want to download all that data the ISO's are also available on the L: Software drive. You can simply copy the files onto a USB drive on a Polytech PC and take them home. It's free so why not use it?</p><table><tr><td>Microsoft</td><td><a href='https://secure.ict.op.ac.nz/msdnaa/'>https://secure.ict.op.ac.nz/msdnaa/</a></td></tr><tr><td>VMWare</td><td>https://secure.ict.op.ac.nz/vmware/</td></tr><tr><td>Username</td><td>Your Polytech username</td></tr><tr><td>Password</td><td>Your Polytech password</td></tr><tr><td>Software Drive at Polytech</td><td>L:</td></tr><tr><td>ISO mounting software for windows</td><td><a href='http://wincdemu.sysprogs.org/'>WinCDEmu</a></td></tr><tr><td>ISO burning software for windows</td><td><a href='http://www.imgburn.com/'>ImgBurn</a></td></tr></table>"
+    },
+    {
+      "Title": "Lynda.com",
+      "Answer": "<p>With your Otago Polytech login you can access Lynda.com's library of tutorial videos.</p><table><tr><td>Link</td><td><a href='http://lynda.op.ac.nz/'>lynda.op.ac.nz/</a></td></tr><tr><td>Username</td><td>Your Polytech username</td></tr><tr><td>Password</td><td>Your Polytech password</td></tr></table>"
+    },
+    {
+      "Title": "Wireless",
+      "Answer": "<p>The wireless network provided for students is OP-Student. Once you are connected to this network you will be automatically redirected to a login portal. If you are not automatically redirected you can manually enter the address 1.1.2.1 in your browser. Once you have logged in using your polytech credentials you can browse as you would normally.</p><table><tr><td>SSID (wireless network name)</td><td>OP-Student</td></tr><tr><td>Password</td><td>studentwifi</td></tr><tr><td>Portal Address</td><td>1.1.2.1</td></tr><tr><td>Portal Username</td><td>Your Polytech username</td></tr><tr><td>Portal Password</td><td>Your Polytech password</td></tr><tr><td>QR Code containing access settings</td><td><img src='images/qrcode.op-student.png' alt='QR Code'></td></tr></table>"
+    },
+    {
+      "Title": "Textbooks",
+      "Answer": "<p>When you are writing code a good language reference manual is indispensable. While a hard copy is great they can be quite expensive. Luckily for poor students like us many of our textbooks are available as PDF's. These are often cheaper than the hard copies and also present other benefits such as being searchable and being very light weight.</p><p>Many textbooks are available in Bill Robertson Library in hard copy form. The Library also maintains a subscription to Safari Books Online allowing access to a selection of ebooks from any on-campus machine, or via ViewClient from off-campus.</p>"
+    },
+    {
+      "Title": "Communicate With Your Lecturers",
+      "Answer": "<p>If for any reason you can't come to class, maybe you're sick, injured, going through a tough time or are getting behind in your work for some reason then the most important thing to do is tell your lecturers! They can help, they do understand, but they need to know what's going on.</p>"
+    },
+    {
+      "Title": "Join the Facebook groups",
+      "Answer": "<p>The BIT Home, CITSS Home and CIT Home Facebook groups are used by staff and students alike to post news, updates about classes and assignments, useful links and information. Because everyone is in the group a really handy bonus is that you can ask for help any time of the day and you almost always get a prompt response from somebody.</p><table><tr><td>BIT Home</td><td><a href='https://www.facebook.com/groups/286621204734252/'>www.facebook.com/groups/286621204734252/</a></td></tr><tr><td>CITSS Home</td><td><a href='https://www.facebook.com/groups/229859077100062'>www.facebook.com/groups/229859077100062</a></td></tr><tr><td>CIT Home</td><td><a href='https://www.facebook.com/groups/406195256141735/'>www.facebook.com/groups/406195256141735/</a></td></tr></table>"
+    },
+    {
+      "Title": "Use The Common Room",
+      "Answer": "<p>The common room D209 is a good place to go between classes. It is a space to do work and discuss it as well as socialise with your classmates. There are 5 PC's for student use that have recently been upgraded as well as space for laptops.</p>"
+    },
+    {
+      "Title": "The I: Drive",
+      "Answer": "<p>The I: drive contains course materials provided by your lecturer often including the Powerpoints. Make sure you are regularly checking it as they add content as the semester progresses. Take a copy of the folder for each of your classes home on a USB so you have the materials when you need them. You can also copy stuff via the View client but this can be slower.</p><p>The path you probably need is: I:\COURSES\EAD\AITEIT3\BITY1</p>"
+    },
+    {
+      "Title": "Organise Your H: Drive",
+      "Answer": "<p>Make a sensible folder structure to store your work so that you can manage it easily and find your work again. Make sure you have a folder for each paper you take and keep everything related inside, this makes your backup easier. Name your folders for exercises sensibly, a bunch of folders named Lab1 doesn't tell you much. This may sound like common sense but you would be surprised how many people don't do this.</p>"
+    },
+    {
+      "Title": "Backup Your Work",
+      "Answer": "<p>Maintain regular backups of your work! Saying 'I can't hand in my assignment because my HDD crashed' won't get you any marks. Basic methods include making a copy on a USB drive or uploading to a cloud service like Dropbox or similar. While these work they may not be the best methods when it comes to code.</p><p>When it comes to code, in the long run you will need to be using some kind of version control system, so why not get used to it now? You have options like GitHub provided online, and the IT Department runs an SVN server. There are instructions for using SVN with the TortoiseSVN client. If you have problems with SVN or find that you have not been added to the server you should contact either Perrin or Krissi.</p><table><tr><td>Instructions</td><td><a href='TortoiseSVNInstructions.docx'>Tortoise SVN Instructions</a></td></tr><tr><td>Supported Platforms</td><td>Windows</td></tr><tr><td>Connection Server</td><td>https://svn.ict.op.ac.nz/svn/yourusername</td></tr><tr><td>Username</td><td>Your Polytech username</td></tr><tr><td>Password</td><td>Your Polytech password</td></tr></table>"
+    },
+    {
+      "Title": "The Student Hub",
+      "Answer": "<p>The OP Student Hub should have everything else you need. It provides access to your email, grades (myOP), support services and more.</p><p><a href='http://www.op.ac.nz/students/student-hub/'>http://www.op.ac.nz/students/student-hub/</a></p>"
+    },
+
+  ]
+}
