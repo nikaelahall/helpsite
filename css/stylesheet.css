@@ -14,7 +14,6 @@ body {
 	width: 800px;
 	/*height: 1800px;*/
 	background-color: white;
-	/*margin: auto;*/
 	box-shadow: 10px 10px 5px #888888;
 	border-top: 1px solid #828282;
 	border-left: 1px solid #828282;
@@ -64,19 +63,19 @@ body {
  	padding: 20px;
  }
 
- .contentText {
+ /*.contentText {
  	margin-top: 130px;
- }
+ }*/
 
  hr {
  	margin-top: 5px;
  	margin-bottom: 5px;
  }
 
- .quickLinks {
+ /*.quickLinks {
  	display: inline;
  	position: relative;
- }
+ }*/
 
  /*#wifi {
  	float: left;
@@ -100,8 +99,7 @@ body {
   #software {
  	float: left;
  	background-image: url("images/software.svg");
- 	height: 120px;
- 	width: 120px;
+
  	background-repeat: no-repeat;
  	margin-left: 20px;
  }
