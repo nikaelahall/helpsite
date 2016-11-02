@@ -1,12 +1,14 @@
 body {
-	padding-top: 70px;
-	padding-bottom: 70px;
 	background-color: #DCD8D1;
 }
 
 a {
 	text-decoration: none;
 	color: inherit;
+}
+
+img {
+	width: 100%;
 }
 
 .content {
@@ -63,10 +65,13 @@ a {
 
 
 @media  (min-width: 768px) {
+	body {
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
 	.content {
 		width: 80%;
 	}
-
 	.intro h1 {
 		font-size: 700%;
 	}
