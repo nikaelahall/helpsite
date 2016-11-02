@@ -33,7 +33,6 @@ a {
 }
 
 .intro h1 {
-	font-size: 700%;
 	color: #4f4f4f;
 }
 
@@ -48,7 +47,6 @@ a {
 }
 
 .searchBar {
-	width: 300px;
 	height: 35px;
 	background-color: white;
 	margin: auto;
@@ -67,5 +65,12 @@ a {
 @media  (min-width: 768px) {
 	.content {
 		width: 80%;
+	}
+	
+	.intro h1 {
+		font-size: 700%;
+	}
+	.searchBar {
+		width: 300px;
 	}
 }
