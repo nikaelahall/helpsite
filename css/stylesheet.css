@@ -25,6 +25,9 @@ img {
 .content h1, h2, h3, h4, h5, h6 {
 	font-family: 'Roboto Light', sans-serif;
 	font-weight: bold;
+	
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 .content p {
 	font-family: 'Roboto', sans-serif;
